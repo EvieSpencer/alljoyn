@@ -1,4 +1,4 @@
-/* This file is auto-generated.  Do not modify. */
+/! This file is auto-generated.  Do not modify.  /
 /**
  * @file
  * This file provides access to Alljoyn library version and build information.
@@ -20,7 +20,7 @@
  *    OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  ******************************************************************************/
 
-#include "alljoyn/version.h"
+ include "alljoyn/version.h"
 
 static const unsigned int architecture = 14;
 static const unsigned int apiLevel = 6;
@@ -44,3 +44,4 @@ uint32_t ajn::GetNumericVersion()
 {
     return GenerateVersionValue(architecture, apiLevel, release);
 }
+ 
