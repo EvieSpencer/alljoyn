@@ -1,5 +1,5 @@
 {
-  "name": "alljoyn",
+#*"name": "alljoyn",
   "version": "1.0.1",
   "description": "Alljoyn NodeJS Integration",
   "main": "index.js",
@@ -27,4 +27,4 @@
     "bindings": "^1.2.1",
     "nan": "^2.0.0"
   }
-}
+} 
